@@ -10,25 +10,25 @@ Resource Final Code: https://github.com/mdshamsh20/Erc20-Tokenization-
 Official Website: https://erc20-tokenization.vercel.app/
 <br>
 
-# # # Team Project 
+> # # # Team Project 
+
+>> 1.Md Shamsuzzama Siddique 
 <br>
-1.Md Shamsuzzama Siddique 
+>> 2.Mohd Daniyal Warsi
 <br>
-2.Mohd Daniyal Warsi
+>> 3.Sayed Hammad
 <br>
-3.Sayed Hammad
-<br>
-4.Chamanjeet Singh 
+>> 4.Chamanjeet Singh 
 <br>
 
-# # # # # To download on your system :
+> # # # # # To download on your system :
 <br>
-npm i
+>> npm i
 <br>
-yarn 
+>> yarn 
 <br>
-Graphbit-live
+>> Graphbit-live
 <br>
-Meta Mask account
+>> Meta Mask account
 
 
