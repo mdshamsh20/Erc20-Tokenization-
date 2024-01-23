@@ -23,12 +23,12 @@ Official Website: https://erc20-tokenization.vercel.app/
 
 > # # # # # To download on your system :
 
->> npm i
+>> * npm i
 
->> yarn 
+>> * yarn 
 
->> Graphbit-live
+>> * Graphbit-live
 
->> Meta Mask account
+>> * Meta Mask account
 
 
