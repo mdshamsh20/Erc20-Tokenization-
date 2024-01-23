@@ -1,17 +1,22 @@
 # IMPORTANT GUIDE
 
-@theblockchaincoders
+@mdshamsh20 
 
 Build your NFT Marketplace start-up, in which you can provide users to upload the NFT to IPFS, and allow them to make API requests to fetch all the IPFS blockchain smart contract data.
 
-Resource Final Code: https://www.theblockchaincoders.com/sourceCode/build-chatgpt-web3-clone-dapp
+Resource Final Code: https://github.com/mdshamsh20/Erc20-Tokenization-
+Official Website: https://erc20-tokenization.vercel.app/
 
-Get Pro Course "AI Movie APP": https://bit.ly/AI-Movie-App-Course
+Team Project 
+1.Md Shamsuzzama Siddique 
+2.Mohd Daniyal Warsi
+3.Sayed Hammad
+4.Chamanjeet Singh 
 
-Support Creator: https://bit.ly/Support-Creator
+To download on your system :
+npm i
+yarn 
+Graphbit-live
+Meta Mask account
 
-All Projects Source Code: https://www.theblockchaincoders.com/SourceCode
 
-Official Website: https://www.theblockchaincoders.com
-
-Book 1 -1 Appointment: https://bit.ly/Book-1-1-Appointment
