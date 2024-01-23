@@ -13,22 +13,22 @@ Official Website: https://erc20-tokenization.vercel.app/
 > # # # Team Project 
 
 >> 1.Md Shamsuzzama Siddique 
-<br>
+
 >> 2.Mohd Daniyal Warsi
-<br>
+
 >> 3.Sayed Hammad
-<br>
+
 >> 4.Chamanjeet Singh 
-<br>
+
 
 > # # # # # To download on your system :
-<br>
+
 >> npm i
-<br>
+
 >> yarn 
-<br>
+
 >> Graphbit-live
-<br>
+
 >> Meta Mask account
 
 
